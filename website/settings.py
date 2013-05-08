@@ -121,6 +121,7 @@ INSTALLED_APPS = (
     'django.contrib.admindocs',
     'south',
     'fabric',
+    'tagging',
 )
 
 # A sample logging configuration. The only tangible logging
